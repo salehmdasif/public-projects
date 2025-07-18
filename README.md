@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abu Salah Mohammad Asif
+# 👋 Hi, I'm Asif Mohammad
 
 Welcome to my data analytics portfolio.
 
