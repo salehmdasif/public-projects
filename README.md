@@ -2,14 +2,15 @@
 
 Welcome to my data analytics portfolio.
 
-## 📊 Featured Projects
+### Facebook Ad - Facebook Ads - Top 10 performing ad creatives and EDA
 
-### 🛍 Ecommerce Sales Dashboard
 - **Tools:** Excel, Power BI
-- **Repo:** [GitHub Link](https://github.com/salehmdasif/ecommerce-sales-dashboard)
-- **Overview:** Analyzed sales trends, top products, and customer KPIs via dynamic dashboard.
+- **Repo:** [GitHub Link](https://github.com/salehmdasif/fb_winner_ads_eda)
+- **Overview:** Creative is the new battleground As creative becomes the key driver of ad success, knowing what performs and what doesn’t is important.
+
+From a 2-year timeline of ad performance, nearly 100+ ad sets, 200+ ads, and 1800+ creative entities were analyzed to identify the top-performing creatives.
 
 ---
 
 📄 [View My Resume (PDF)](./Asif_CV.pdf)
-📫 Reach Me: [your.email@example.com](mailto:asif@ravelweb.com)
+📫 Reach Me: [your.email@example.com](mailto:salehmdasif@gmail.com)
