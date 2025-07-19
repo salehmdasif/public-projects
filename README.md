@@ -11,4 +11,4 @@ Welcome to my data analytics portfolio.
 ---
 
 📄 [View My Resume (PDF)](./Asif_CV.pdf)
-📫 Reach Me: [your.email@example.com](mailto:salehmdasif@gmail.com)
+📫 Reach Me: [salehmdasif@gmail.com](mailto:salehmdasif@gmail.com)
