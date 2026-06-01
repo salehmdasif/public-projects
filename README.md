@@ -14,6 +14,3 @@ Welcome to my data analytics portfolio.
 - **Overview:** The Futuristic Data Analysis Dashboard is an interactive web application designed to analyze and visualize uploaded datasets using advanced statistical methods, including linear regression. Built with Streamlit, this app provides a user-friendly interface for data exploration, correlation analysis, and data visualization, making it an essential tool for data analysts and decision-makers.
 
 ---
-
-📄 [View My Resume (PDF)](./Asif_CV.pdf)
-📫 Reach Me: [salehmdasif@gmail.com](mailto:salehmdasif@gmail.com)
