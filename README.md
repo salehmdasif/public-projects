@@ -1,16 +1,75 @@
-# 👋 Hi, I'm Asif Mohammad
+# Public Project Portfolio
 
-Welcome to my data analytics portfolio.
+---
 
-### Unveiling the Top 10 Performing Facebook Ad Creatives with Performance EDA
+### 1. Nexus POS SaaS
 
-- **Repo:** [GitHub Link](https://github.com/salehmdasif/fb-winner-ads-eda)
-- **Overview:** Creative is the new battleground As creative becomes the key driver of ad success, knowing what performs and what doesn’t is important. From a 2-year timeline of ad performance, nearly 100+ ad sets, 200+ ads, and 1800+ creative entities were analyzed to identify the top-performing creatives.
+**Multi-Tenant Point-of-Sale & Business Management Platform**
 
+A full-featured SaaS POS platform with per-tenant PostgreSQL isolation, role-based access control, inventory management, and a real-time sales dashboard. Built with Flask 3, Redis, and Docker for enterprise-ready, scalable retail operations across multiple clients.
 
-### An streamlit app that analyzes uploaded data using linear regression and visualizes relevant insights.
+[![Repository](https://img.shields.io/badge/View%20Repository-Check%20Now-744B93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salehmdasif/nexus-pos-saas)
+&nbsp;&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-0969da?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexus.ravelweb.com)
 
-- **Repo:** [GitHub Link](https://github.com/salehmdasif/streamlit_fb_ad_data_dashboard)
-- **Overview:** The Futuristic Data Analysis Dashboard is an interactive web application designed to analyze and visualize uploaded datasets using advanced statistical methods, including linear regression. Built with Streamlit, this app provides a user-friendly interface for data exploration, correlation analysis, and data visualization, making it an essential tool for data analysts and decision-makers.
+---
+
+### 2. DocMind
+
+**AI-Powered Document Intelligence & RAG Query Platform**
+
+An intelligent document platform using RAG architecture with ChromaDB and Ollama. Upload PDFs, query them in natural language, and get precise answers — fully private and offline-capable. Built with FastAPI, React 18, and PostgreSQL with Docker-based deployment.
+
+[![Repository](https://img.shields.io/badge/View%20Repository-Check%20Now-744B93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salehmdasif/docmind)
+&nbsp;&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-0969da?style=for-the-badge&logo=google-chrome&logoColor=white)](https://docmind.ravelweb.com)
+
+---
+
+### 3. BI Agent
+
+**Conversational Business Intelligence Agent with Natural Language Querying**
+
+A conversational BI agent that turns plain-English questions into SQL queries, charts, and insights from your data warehouse. Powered by LLM tool-use, it connects to live databases and delivers analyst-grade reporting without writing a single line of query.
+
+[![Repository](https://img.shields.io/badge/View%20Repository-Check%20Now-744B93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salehmdasif/bi-agent)
+&nbsp;&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-0969da?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bi-agent.ravelweb.com)
+
+---
+
+### 4. Meta Ads Intelligence
+
+**Automated Meta Ads Performance Analytics & Reporting Platform**
+
+Pulls live campaign data from the Meta Ads API, stores it in a structured database, and delivers KPI dashboards, creative performance breakdowns, and automated Google Sheets reports. Built with FastAPI, APScheduler, SQLite, and Chart.js for continuous ad intelligence.
+
+[![Repository](https://img.shields.io/badge/View%20Repository-Check%20Now-744B93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salehmdasif/meta-ads-intelligence)
+&nbsp;&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-0969da?style=for-the-badge&logo=google-chrome&logoColor=white)](https://meta-ads.ravelweb.com)
+
+---
+
+### 5. Reliable API Pipeline
+
+**Fault-Tolerant API Data Pipeline with Scheduled Sync & Monitoring**
+
+A production-grade ETL pipeline with retry logic, rate-limit handling, and scheduled sync for pulling data from unstable third-party APIs. Features a Flask monitoring dashboard, SQLAlchemy ORM, and pandas-based transformation layer for clean, reliable data delivery.
+
+[![Repository](https://img.shields.io/badge/View%20Repository-Check%20Now-744B93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salehmdasif/reliable-api-pipeline)
+&nbsp;&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-0969da?style=for-the-badge&logo=google-chrome&logoColor=white)](https://api-pipeline.ravelweb.com)
+
+---
+
+### 6. DataPulse
+
+**Real-Time Data Monitoring & KPI Alerting Dashboard**
+
+A live data monitoring platform that tracks KPIs across multiple data sources, triggers threshold-based alerts, and visualizes trends in real time. Designed for operations teams who need instant visibility into business-critical metrics without relying on manual reporting.
+
+[![Repository](https://img.shields.io/badge/View%20Repository-Check%20Now-744B93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salehmdasif/datapulse)
+&nbsp;&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-0969da?style=for-the-badge&logo=google-chrome&logoColor=white)](https://datapulse.ravelweb.com)
 
 ---
