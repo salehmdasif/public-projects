@@ -11,6 +11,8 @@ A full-featured SaaS POS platform with per-tenant PostgreSQL isolation, role-bas
 > **Live Demo:** This application is currently deployed in production. Demo credentials are available upon request.
 
 [![Repository](https://img.shields.io/badge/View%20Repository-Check%20Now-744B93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salehmdasif/ravelweb-nexus-public)
+&nbsp;&nbsp;&nbsp;
+[![Request Demo](https://img.shields.io/badge/Production-Request%20Demo-success?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asif.ravelweb.com/#contact)
 
 ---
 
