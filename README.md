@@ -8,11 +8,9 @@
 
 A full-featured SaaS POS platform with per-tenant PostgreSQL isolation, role-based access control, inventory management, and a real-time sales dashboard. Built with Flask 3, Redis, and Docker for enterprise-ready, scalable retail operations across multiple clients.
 
-> **Demo credentials** — Username: `admin` · Password: `admin123`
+> **Live Demo** This application is currently deployed in production. Demo credentials are available upon request.
 
 [![Repository](https://img.shields.io/badge/View%20Repository-Check%20Now-744B93?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salehmdasif/ravelweb-nexus-public)
-&nbsp;&nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-0969da?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexus.app.ravelweb.com/)
 
 ---
 
